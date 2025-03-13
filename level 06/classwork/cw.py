@@ -7,9 +7,9 @@ age = 14
 
 #debugging რა არის? debugging არის ნებისმიერი პროგრამული უზრუნველყოფის საწყის კოდში შეცდომის ან შეცდომების აღმოჩენისა და გამოსწორების პროცესი.
 
-name = "vano"
-surname = motiashvili
-height = 1 86
-print(name + surname - height)
+# name = "vano"
+#  surname = motiashvili
+# height = 1 86
+# print(name + surname - height)
 
 # "motiasvshvili" არის stringer'ი, და stringer'ს ჭირდება " ". "1 86" რომ აწერია უნდა იყოს "1.86" იმიტომ რომ რიცხვი არის და წერტილის გარეშე ვერ დაიჭერება. "surname - height" არასწორე არის, "surname + height" უნდა იყოს თუ გვინდა მივამატოთ.
